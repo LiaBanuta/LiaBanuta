@@ -10,5 +10,5 @@ fields_of_interes:
   "3D modelling"
 ]
 
-currently_learning: ["Various learning models"]
+currently_learning: ["regression, optimization, neural networks", "Kaggle competitions"]
 ```
