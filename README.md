@@ -1,16 +1,14 @@
-## Hi there 👋
+```yaml
+name: Lia Banuta
+located_in: Eindhoven, Netherlands
+current_studies: 2nd year Bcs CSE Eindhoven University of Technology
 
-<!--
-**LiaBanuta/LiaBanuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interes:
+[
+  "Data Science",
+  "Machine Learning",
+  "3D modelling"
+]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["Various learning models"]
+```
