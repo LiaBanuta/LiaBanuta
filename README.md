@@ -12,4 +12,3 @@ fields_of_interes:
 
 currently_learning: ["regression, optimization, neural networks", "Kaggle competitions"]
 ```
-![Snake animation](https://github.com/LiaBanuta/LiaBanuta/blob/output/github-contribution-grid-snake.svg)
