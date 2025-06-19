@@ -1,16 +1,19 @@
 name: Update Spotify Now Playing
 
 on:
+  # Runs every 5 minutes
   schedule:
     - cron: '*/5 * * * *'
+  
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   spotify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Novatorem/spotify-readme@master # <--- THIS IS THE LINE WE FIXED
+      # This is the new, working action. It replaces the old one.
+      - uses: KamilTIs/spotify-now-playing@v4
         with:
           spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
