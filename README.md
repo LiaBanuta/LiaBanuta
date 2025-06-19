@@ -1,4 +1,3 @@
-![Spotify](https://raw.githubusercontent.com/LiaBanuta/LiaBanuta/main/spotify-now-playing.svg)
 ```yaml
 name: Lia Banuta
 located_in: Eindhoven, Netherlands
