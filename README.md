@@ -1,9 +1,8 @@
-
 <table style="border-collapse: collapse;">
 <tr>
 <td style="border: none; padding: 0;"">
 
-![Fucker is not loading](./god-of-war-hydra.gif)
+![Fucker is not loading](./vewn-victoria-vincent.gif)
 
 </td>
 <td style="border: none; padding: 0;">
