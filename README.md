@@ -1,14 +1,37 @@
+
+<table style="border-collapse: collapse;">
+<tr>
+<td style="border: none; padding: 0;"">
+
+![Fucker is not loading](./god-of-war-hydra.gif)
+
+</td>
+<td style="border: none; padding: 0;">
+
 ```yaml
 name: Lia Banuta
-located_in: Eindhoven, Netherlands
-current_studies: 2nd year Bcs CSE Eindhoven University of Technology
+location: eindhoven (the netherlands)
+status: 2nd year bcs student @ tue
+studying: computer science & engineering
 
-fields_of_interes:
-[
-  "Data Science",
-  "Machine Learning",
-  "3D modelling"
-]
+fucking_around_with:
+  - llms and ai stuff
+  - machine learning sometimes  
+  - neural networks *coming soon*
+  - kaggle competitions (love the grind)
 
-currently_learning: ["regression, optimization, neural networks", "Kaggle competitions"]
+things_i_actually_know:
+  - coding (decently)
+  - 3d modelling (blender warrior)
+  - making computers do stuff
+
+when_not_coding:
+  - biking (preferably not on concrete)
+  - climbing stuff (rocks, walls, whatever)
+  - drawing random things
+  - i just like doing stuff
 ```
+
+</td>
+</tr>
+</table>
