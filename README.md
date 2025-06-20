@@ -1,11 +1,6 @@
 <table style="border-collapse: collapse;">
 <tr>
-<td style="border: none; padding: 0;"">
-
-![Fucker is not loading](./vewn-victoria-vincent.gif)
-
-</td>
-<td style="border: none; padding: 0;">
+<td style="border: none; padding: 0;""> 
 
 ```yaml
 name: Lia Banuta
@@ -30,6 +25,11 @@ when_not_coding:
   - drawing random things
   - i just like doing stuff
 ```
+
+</td>
+<td style="border: none; padding: 0;">
+
+![Fucker is not loading](./vewn-victoria-vincent.gif)
 
 </td>
 </tr>
