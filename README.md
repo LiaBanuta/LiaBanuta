@@ -5,8 +5,10 @@
 ```yaml
 name: Lia Banuta
 location: eindhoven (the netherlands)
-status: 2nd year bcs student @ tue
+status: 3rd year bcs student @ tue
 studying: computer science & engineering
+
+tags: #DevOps (god level)
 
 fucking_around_with:
   - llms and ai stuff
